@@ -1,0 +1,67 @@
+/* Basic styling */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #2b2d42;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.app-container {
+  text-align: center;
+  background-color: #1d1f33;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+  width: 100%;
+  max-width: 600px;
+}
+
+.title {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  color: #ff0000;
+}
+
+.input-field {
+  padding: 12px;
+  width: 80%;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  font-size: 1rem;
+}
+
+.check-button {
+  padding: 12px 20px;
+  background-color: #1976D2;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.check-button:hover {
+  background-color: #ff2a2a;
+}
+
+.result-text {
+  margin-top: 20px;
+  font-size: 1.2rem;
+  color: #ffd700;
+}
+
+h1 {
+  color:#f60808
+
+}
+
+h2 {
+  color:#787070
+}
