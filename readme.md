@@ -16,7 +16,7 @@ The Malicious URL Detector is a web application that allows users to check wheth
 - CSS (for styling)
 
 ### Backend
-- FastAPI / Flask (Recommended for Python-based APIs)
+- FastAPI / Flask
 
 ## Installation & Setup
 
